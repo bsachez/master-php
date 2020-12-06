@@ -1,0 +1,20 @@
+<?php 
+
+// UNA  CONSTANTE ES UN CONTENEDOR DE INFORMACION QUE NO PUEDE VARIAR
+
+//ASI SE DEFINE UNA CONSTANTE
+define('nombre', 'Brayan Sánchez');
+define('web', 'bsanchezweb.com');
+
+// PARA MOSTRAR UNA CONSTANTE EN PANTALLA SE HACER PERCIDO A COMO SE MUESTRA UNA VARIABLE SOLO QUE SIN EL "$"
+
+echo nombre;
+echo "<br>";
+echo web;
+
+// CONSTANTES PREDIFINIDAS
+
+echo PHP_OS;
+
+// PARA PODER VER LAS DEMAS VARIABLES PREDIFINIDAS SE PUEDEN VER EN LA DOCUMENTACION DE PHP
+// https://www.php.net/manual/es/reserved.variables.php
