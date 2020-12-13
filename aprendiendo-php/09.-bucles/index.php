@@ -71,5 +71,5 @@ $contador = 1;
 
 do {
 	echo "TIENES ACCESO AL LOCAL PRIVADO $contador";
-	$contador++
-} while($edad >= 18)
+	$contador++;
+} while($edad >= 18 && $contador <=10);
