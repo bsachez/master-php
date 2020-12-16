@@ -11,7 +11,7 @@
 
 	<hr>
 
-	<?php 
+	<?php
 
 	if (isset($_GET["numero1"]) && isset($_GET["numero2"])) {
 
@@ -23,8 +23,8 @@
 		} else {
 
 			echo "Estos son los numeros que hay entre $numero1 y $numero2<br>";
-		
-			for ($i=$numero1; $i <= $numero2; $i++) { 
+
+			for ($i=$numero1; $i <= $numero2; $i++) {
 				echo $i."<br>";
 			}
 

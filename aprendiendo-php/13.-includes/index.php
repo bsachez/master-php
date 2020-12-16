@@ -6,32 +6,32 @@
 	<title>Inlcudes en PHP</title>
 </head>
 <body>
-	
+
 	<!--============================
 	=            HEADER            =
 	=============================-->
-	 
-	 <?php include "includes/header.php"; ?>
-	 
+
+	<?php include "includes/header.php"; ?>
+
 	<!--====  End of HEADER  ====-->
 
 	<!--==========================
 	=            MAIN            =
 	===========================-->
-	 
-	 <div>
-	 	<h2>Esta es la pagina de inicio</h2>
-	 	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sit ducimus maxime nemo, reiciendis rerum doloremque, eos delectus maiores modi accusantium aliquam quod, incidunt nesciunt id quia aperiam dolor aspernatur.</p>
-	 </div>
-	 
+
+	<div>
+		<h2>Esta es la pagina de inicio</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis sit ducimus maxime nemo, reiciendis rerum doloremque, eos delectus maiores modi accusantium aliquam quod, incidunt nesciunt id quia aperiam dolor aspernatur.</p>
+	</div>
+
 	<!--====  End of MAIN  ====-->
 
 	<!--============================
 	=            FOOTER            =
 	=============================-->
-	 
-	 <?php include "includes/footer.php"; ?>
-	 
+
+	<?php include "includes/footer.php"; ?>
+
 	<!--====  End of FOOTER  ====-->
 
 

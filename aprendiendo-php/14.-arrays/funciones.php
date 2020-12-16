@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $cantantes = ['Michael Jackson', 'BB King', 'Alex Lora'];
 $numeros = [1,5,4,9,8,7,6];

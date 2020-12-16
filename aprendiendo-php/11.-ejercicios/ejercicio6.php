@@ -13,22 +13,22 @@
 
 	<table border="1">
 		<tr>
-			<?php 
+			<?php
 
-			for ($cabezera = 1; $cabezera <=10; $cabezera++) { 
+			for ($cabezera = 1; $cabezera <=10; $cabezera++) {
 				echo "<td>Tabla del numero $cabezera</td>";
 			}
 
-			 ?>
+			?>
 		</tr>
 
 		<tr>
-			<?php 
+			<?php
 
-			for ($i=0; $i <= 10; $i++) { 
+			for ($i=0; $i <= 10; $i++) {
 				echo "<td>";
 
-				for ($x=1; $x <= 10; $x++) { 
+				for ($x=1; $x <= 10; $x++) {
 					echo "$i x $x = ".($i * $x)."<br>";
 				}
 

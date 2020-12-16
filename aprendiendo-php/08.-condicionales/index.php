@@ -1,29 +1,29 @@
-<?php  
+<?php
 
-// CONDICIONALES 
+// CONDICIONALES
 
 // IF
 
 
  // OPERADORES DE COMPARACION
 
- /*== IGUAL
- === IDENTICO
- != DIFERENTE
- <> DIFERENTE
- !== NO IDENTICO
- < MENOR QUE
- > MAYOR QUE
- <= MENOR O IGUAL QUE
- >= MAYOR O IGUAL QUE
+/*== IGUAL
+=== IDENTICO
+!= DIFERENTE
+<> DIFERENTE
+!== NO IDENTICO
+< MENOR QUE
+> MAYOR QUE
+<= MENOR O IGUAL QUE
+>= MAYOR O IGUAL QUE
 
- OERADIRES LOGICOS
+OERADIRES LOGICOS
 
- && AND
- || OR
- ! NO
- AND
- OR*/
+&& AND
+|| OR
+! NO
+AND
+OR*/
 
 $color = "verde";
 
@@ -92,5 +92,5 @@ echo "<h3>INTRUCCION 2</h3>";
 echo "<h3>INTRUCCION 3</h3>";
 echo "<h3>INTRUCCION 4</h3>";
 
-vamos: 
+vamos:
 echo "<h1>ME HE SALTADO 4 ECHO'S</h1>";

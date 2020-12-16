@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-// FUNCIONES 
+// FUNCIONES
 // Una funcion es un conjunto de instrucciones agrupadas bajo un nombre en concreto y que pueden reutilizarse solamente llamando a la funcion tantas veces como queramos
 
 // function nombreDeLaFuncion($parametros) {
@@ -28,7 +28,7 @@ function tabla($numero) {
 
 	echo "<h3>Tabla de multiplicar del numero $numero</h3>";
 
-	for ($i=1; $i <= 10; $i++) { 
+	for ($i=1; $i <= 10; $i++) {
 		echo "$numero x $i = ".($numero * $i)."<br>";
 	}
 
@@ -50,7 +50,7 @@ echo "<hr>";
 
 // TABLAS DEL 1 AL 10 CON LA FUNCION Y UN FOR
 
-for ($i=1; $i <= 10; $i++) { 
+for ($i=1; $i <= 10; $i++) {
 	tabla($i);
 }
 

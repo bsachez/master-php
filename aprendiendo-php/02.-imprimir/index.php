@@ -9,7 +9,7 @@
 
 	<h1>Imprimir por pantalla - master en PHP</h1>
 
-	<?php 
+	<?php
 
 	echo '<h3>Lista de videojuegos</h3>';
 
@@ -21,7 +21,7 @@
 
 	echo '<p>Esta es toda la'.' - '.'lista de videojuegos</p>';
 
-	 ?>
+	?>
 
 	<!-- UNA MANERA DE HACER UN ECHO EN PHP PERO DE UNA MANERA MAS COMPACTA Y RAPIDA ES LA SIGUIENTE -->
 

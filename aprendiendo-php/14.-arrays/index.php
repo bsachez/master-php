@@ -1,6 +1,6 @@
-<?php 
+<?php
 
-/*ARRAYS 
+/*ARRAYS
 Un array es una coleccion o un concunto de datos/valores, bajo un unico nombre.
 Para acceder a esos valores podemos usar un undice numerico o alfanumerico*/
 
@@ -18,7 +18,7 @@ echo "<h1>Listado de peliculas con for</h1>";
 
 echo "<ul>";
 
-for ($i=0; $i < count($peliculas); $i++) { 
+for ($i=0; $i < count($peliculas); $i++) {
 	echo "<li>$peliculas[$i]</li>";
 }
 

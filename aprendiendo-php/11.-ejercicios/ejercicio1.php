@@ -12,7 +12,7 @@
 
 	<hr>
 
-	<?php 
+	<?php
 
 	$pais = "España";  // ESTO ES UN STRING
 	$continente = "Europeo"; // ESTO ES UN STRING

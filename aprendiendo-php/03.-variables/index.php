@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 	// UNA VARIABLE ES UN CONTENEDOR DE INFORMACION, QUE PUEDE ALMAZENAR CUALQUIER DATO DENTRE DE ELLA
 
@@ -6,4 +6,4 @@
 
 	echo "<h1>".$mi_primera_variable."</h1>";
 
- ?>
+?>

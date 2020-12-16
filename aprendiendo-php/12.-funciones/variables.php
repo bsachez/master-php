@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 /*VARIABLES LOCALES:
 Son las que se definen dentro de una funcion y no pueden ser usadas fuera de la funcion, solo estan disponibles dentro de la funcion a no ser que hagamos un return
@@ -39,7 +39,7 @@ function buenasnoches() {
 }
 
 if (isset($_GET["horario"])) {
-	
+
 	$horario = $_GET["horario"];
 
 	$miFuncion = "buenas".$horario;

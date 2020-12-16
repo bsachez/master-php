@@ -1,4 +1,4 @@
-<?php 
+<?php
 
  // BULE WHILE
 
@@ -22,19 +22,19 @@
 
  // DEL EJERCICIO ANTERIOR SEPARAMOS LOS NUMEROS CON COMAS
 
- $numero = 0;
+	$numero = 0;
 
- while($numero <= 100) {
- 	echo $numero;
+	while($numero <= 100) {
+		echo $numero;
 
- 	if($numero != 100) {
- 		echo ",";
- 	}
+		if($numero != 100) {
+			echo ",";
+		}
 
- 	$numero++;
- }
+		$numero++;
+	}
 
- echo "<hr>";
+	echo "<hr>";
 
   // EJEMPLO
 

@@ -1,10 +1,10 @@
-<?php 
+<?php
 
 // HACER UN PRQUEÑO PROGRAMA QUE SUME TODOS LOS NUMERO QUR HAY DEL 1 AL 100
 
 $resultado = 0;
 
-for ($i=0; $i <= 100; $i++) { 
+for ($i=0; $i <= 100; $i++) {
 	$resultado += $i;
 }
 
@@ -15,7 +15,7 @@ echo "<hr>";
 // TABLA DE MULTIPLICAR CON FOR
 
 if (isset($_GET["numero"])) {
-	
+
 	$numero = $_GET["numero"];
 
 	echo "<p>Tabla de multiplicar del numero $numero</p>";
