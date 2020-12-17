@@ -1,0 +1,4 @@
+hola soy un fichero de texto de blog de notas
+y tengo
+varias
+lineas de texto
